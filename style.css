@@ -141,15 +141,15 @@ nav a.active{
 
 
 .project {
-    background-image: url("../images/project-1.jpg");
+    background-image: url("assets/project-1.jpg");
   }
   
   .project-2 {
-    background-image: url("../images\project-1.jpg");
+    background-image: url("assest/project.jpg");
   }
   
   .project-1 {
-    background-image: url("../images/project-2.jpg");
+    background-image: url("assets/project-2.jpg");
   }
 
 
