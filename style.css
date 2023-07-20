@@ -6,8 +6,8 @@
 
 
 :root {
-    --primary: rgb(140, 17, 151);
-    --secondary: rgb(56, 131, 24);
+    --primary: rgb(11, 24, 204);
+    --secondary: rgb(43, 14, 6);
     --tertiary: rgba(49, 52, 61, 1);
     --dark: rgba(28, 29, 33, 1);
     --light: rgb(25, 11, 151);
@@ -20,8 +20,8 @@ main{
 }
 
 .hero-banner{
-    background-color: dodgerblue;
-    color: yellow;
+    background-color: rgba(73, 158, 243, 0.89);
+    color: rgb(37, 170, 180);
     text-align: center;
     padding: 2rem;
 }
@@ -52,7 +52,7 @@ a:hover{
 
 header{
     text-align: center;
-    background-color: sandybrown;
+    background-color: rgb(9, 27, 25);
     color: black;
     padding: 1rem;
     display: flex;
